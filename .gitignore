@@ -1,0 +1,6 @@
+.idea
+.vscode
+.fleet
+
+.pytest_cache
+*/__pycache__
